@@ -1,0 +1,8 @@
+This is the first change to filelist.txt
+total 3
+drwxr-xr-x    1 indra.sa Administ        0 Nov  5 12:14 ..
+drwxr-xr-x    2 indra.sa Administ        0 Nov  5 12:14 include
+drwxr-xr-x    2 indra.sa Administ        0 Nov  5 12:15 code
+drwxr-xr-x    6 indra.sa Administ        0 Nov  5 12:15 .
+drwxr-xr-x   12 indra.sa Administ     4096 Nov  5 12:16 .git
+-rw-r--r--    1 indra.sa Administ       41 Nov  5 12:17 filelist.txt
